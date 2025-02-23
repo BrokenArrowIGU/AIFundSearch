@@ -92,7 +92,7 @@ No Create an indexer, troque o nome do Indexer para coffee-indexer;
 Deixe o Schedule on Once e no Advanced Options, deixe o Base-64 Encode Keys, após Submit;
 
 Após esses parametros serem implementados é possivel verificar os Indexers e realizar o Search explorer.
-
+A referida ferramenta é muito útil para efetuara buscas dentro de arquivos muito extensos e a partir de tais buscas usar os resultados para implementações particulares de cada tipo de empresa.
 
 
 
